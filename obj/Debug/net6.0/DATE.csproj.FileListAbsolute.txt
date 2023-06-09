@@ -1,0 +1,15 @@
+C:\Users\Asus\Downloads\DATE\DATE\bin\Debug\net6.0\DATE.exe
+C:\Users\Asus\Downloads\DATE\DATE\bin\Debug\net6.0\DATE.deps.json
+C:\Users\Asus\Downloads\DATE\DATE\bin\Debug\net6.0\DATE.runtimeconfig.json
+C:\Users\Asus\Downloads\DATE\DATE\bin\Debug\net6.0\DATE.dll
+C:\Users\Asus\Downloads\DATE\DATE\bin\Debug\net6.0\DATE.pdb
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\DATE.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\DATE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\DATE.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\DATE.AssemblyInfo.cs
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\DATE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\DATE.dll
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\refint\DATE.dll
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\DATE.pdb
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\DATE.genruntimeconfig.cache
+C:\Users\Asus\Downloads\DATE\DATE\obj\Debug\net6.0\ref\DATE.dll
